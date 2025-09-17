@@ -110,3 +110,6 @@ Download the [APTOS 2019 Blindness Detection](https://www.kaggle.com/c/aptos2019
 └── test.csv
 ```
 
+## Authors
+- Adarsh Dhakar
+- Om Prakash Behera
